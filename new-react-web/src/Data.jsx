@@ -1,9 +1,9 @@
 import Camii from './images/cami.jpeg'
-import  Dpü from './images/dpü.jepg'
+import  Dpü from './images/dpu.jpeg'
 import Kale from './images/kale.webp'
-import Şehitlik from './images/şehitlik.jepg'
+import Şehitlik from './images/şehitlik.jpeg'
 
-const travel = [{
+export const travel = [{
   id: 1,
   title: "Kütahya Ulu Camii",
   description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis sequi tempora omnis! Quia culpa vel in voluptate totam quae repellat!",
